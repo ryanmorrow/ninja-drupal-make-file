@@ -82,6 +82,8 @@ projects[views][version] = "3.7"
 projects[webform][subdir] = "contrib"
 projects[webform][version] = "3.19"
 
+projects[genpass][subdir] = "contrib"
+
 ; Themes
 projects[omega][version] = "3.1"
 
