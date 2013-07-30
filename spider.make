@@ -14,75 +14,54 @@ projects[spider][type] = "profile"
 
 ; Modules
 projects[admin_menu][subdir] = "contrib"
-projects[admin_menu][version] = "3.0-rc4"
 
 projects[better_formats][subdir] = "contrib"
-projects[better_formats][version] = "1.0-beta1"
 
 projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.3"
 
 projects[ckeditor][subdir] = "contrib"
-projects[ckeditor][version] = "1.13"
 
 projects[conditional_styles][subdir] = "contrib"
-projects[conditional_styles][version] = "2.1"
 
 projects[context][subdir] = "contrib"
-projects[context][version] = "3.0-beta6"
 
 projects[date][subdir] = "contrib"
-projects[date][version] = "2.6"
 
 projects[devel][subdir] = "contrib"
-projects[devel][version] = "1.3"
 
 projects[devel_themer][subdir] = "contrib"
-projects[devel_themer][version] = "1.x-dev"
 
 projects[features][subdir] = "contrib"
-projects[features][version] = "2.0-rc1"
 
 projects[field_group][subdir] = "contrib"
-projects[field_group][version] = "1.1"
 
 projects[google_analytics][subdir] = "contrib"
-projects[google_analytics][version] = "1.3"
 
 projects[insert_view][subdir] = "contrib"
-projects[insert_view][version] = "2.0"
 
 projects[jquery_update][subdir] = "contrib"
-projects[jquery_update][version] = "2.3"
 
 projects[libraries][subdir] = "contrib"
-projects[libraries][version] = "2.1"
 
 projects[link][subdir] = "contrib"
-projects[link][version] = "1.1"
 
 projects[node_embed][subdir] = "contrib"
-projects[node_embed][version] = "1.1"
 
 projects[pathauto][subdir] = "contrib"
-projects[pathauto][version] = "1.2"
 
 projects[simplehtmldom][subdir] = "contrib"
-projects[simplehtmldom][version] = "1.12"
 
 projects[strongarm][subdir] = "contrib"
-projects[strongarm][version] = "2.0"
 
 projects[token][subdir] = "contrib"
-projects[token][version] = "1.5"
 
 projects[views][subdir] = "contrib"
-projects[views][version] = "3.7"
 
 projects[webform][subdir] = "contrib"
-projects[webform][version] = "3.19"
 
 projects[genpass][subdir] = "contrib"
+
+projects[omega_tools][subdir] = "contrib"
 
 ; Themes
 projects[omega][version] = "3.1"
