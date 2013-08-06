@@ -63,6 +63,10 @@ projects[genpass][subdir] = "contrib"
 
 projects[omega_tools][subdir] = "contrib"
 
+projects[rules][subdir] = "contrib"
+
+projects[content_access] = "contrib"
+
 ; Themes
 projects[omega][version] = "3.1"
 
