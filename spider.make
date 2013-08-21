@@ -13,6 +13,8 @@ projects[spider][download][url] = "git://github.com/ryanmorrow/spider-profile.gi
 projects[spider][type] = "profile"
 
 ; Modules
+projects[entity][subdir] = "contrib"
+
 projects[admin_menu][subdir] = "contrib"
 
 projects[better_formats][subdir] = "contrib"
