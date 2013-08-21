@@ -15,6 +15,8 @@ projects[spider][type] = "profile"
 ; Modules
 projects[entity][subdir] = "contrib"
 
+projects[admin_views][subdir] = "contrib"
+
 projects[admin_menu][subdir] = "contrib"
 
 projects[better_formats][subdir] = "contrib"
