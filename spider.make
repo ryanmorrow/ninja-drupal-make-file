@@ -74,9 +74,8 @@ projects[htmlpurifier][subdir] = "contrib"
 projects[globalredirect][subdir] = "contrib"
 
 ; Themes
-;projects[omega][version] = "3.1"
-
-;projects[mobile_jquery][version] = "2.0-beta1"
+projects[] = omega
+projects[] = zen
 
 
 
