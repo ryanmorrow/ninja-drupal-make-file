@@ -69,9 +69,9 @@ projects[rules][subdir] = "contrib"
 
 projects[content_access][subdir] = "contrib"
 
-projects[htmlpurifier][subdir] = "contrib"
-
 projects[globalredirect][subdir] = "contrib"
+
+projects[auto_nodetitle][subdir] = "contrib"
 
 ; Themes
 projects[] = omega
