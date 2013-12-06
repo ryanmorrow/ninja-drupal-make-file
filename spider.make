@@ -73,6 +73,8 @@ projects[globalredirect][subdir] = "contrib"
 
 projects[auto_nodetitle][subdir] = "contrib"
 
+projects[transliteration][subdir] = "contrib"
+
 ; Themes
 projects[] = omega
 projects[] = zen
