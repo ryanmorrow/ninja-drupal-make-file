@@ -75,6 +75,8 @@ projects[auto_nodetitle][subdir] = "contrib"
 
 projects[transliteration][subdir] = "contrib"
 
+projects[simplify][subdir] = "contrib"
+
 ; Themes
 projects[] = omega
 projects[] = zen
