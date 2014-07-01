@@ -77,6 +77,10 @@ projects[transliteration][subdir] = "contrib"
 
 projects[simplify][subdir] = "contrib"
 
+projects[views_bulk_operations][subdir] = "contrib"
+
+projects[coder][subdir] = "coder"
+
 ; Themes
 projects[] = omega
 projects[] = zen
@@ -95,3 +99,4 @@ libraries[htmlpurifier][download][type] = "get"
 libraries[htmlpurifier][download][url] = "http://htmlpurifier.org/releases/htmlpurifier-4.5.0.tar.gz"
 libraries[htmlpurifier][directory_name] = "htmlpurifier"
 libraries[htmlpurifier][type] = "library"
+
