@@ -79,7 +79,9 @@ projects[simplify][subdir] = "contrib"
 
 projects[views_bulk_operations][subdir] = "contrib"
 
-projects[coder][subdir] = "coder"
+projects[coder][subdir] = "contrib"
+
+projects[linkit][subdir] = "contrib"
 
 ; Themes
 projects[] = omega
