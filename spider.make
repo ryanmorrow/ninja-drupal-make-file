@@ -57,6 +57,8 @@ projects[simplehtmldom][subdir] = "contrib"
 
 projects[strongarm][subdir] = "contrib"
 
+projects[password_policy][subdir] = "contrib"
+
 projects[token][subdir] = "contrib"
 
 projects[views][subdir] = "contrib"
@@ -82,6 +84,10 @@ projects[views_bulk_operations][subdir] = "contrib"
 projects[coder][subdir] = "contrib"
 
 projects[linkit][subdir] = "contrib"
+
+projects[bean][subdir] = "contrib"
+
+projects[weight][subdir] = "contrib"
 
 ; Themes
 projects[] = omega
