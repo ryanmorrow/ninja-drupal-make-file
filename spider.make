@@ -95,6 +95,8 @@ projects[bakery][subdir] = "contrib"
 
 projects[services][subdir] = "contrib"
 
+projects[examples][subdir] = "contrib"
+
 ; Themes
 projects[] = omega
 projects[] = zen
