@@ -23,7 +23,7 @@ projects[better_formats][subdir] = "contrib"
 
 projects[ctools][subdir] = "contrib"
 
-projects[ckeditor][subdir] = "contrib"
+projects[wysiwyg][subdir] = "contrib"
 
 projects[conditional_styles][subdir] = "contrib"
 
@@ -89,6 +89,12 @@ projects[bean][subdir] = "contrib"
 
 projects[weight][subdir] = "contrib"
 
+projects[uuid][subdir] = "contrib"
+
+projects[bakery][subdir] = "contrib"
+
+projects[services][subdir] = "contrib"
+
 ; Themes
 projects[] = omega
 projects[] = zen
@@ -99,12 +105,17 @@ projects[] = zen
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
 libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.2/ckeditor_4.2_standard.zip"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.4.5/ckeditor_4.4.5_standard.zip"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][type] = "library"
 
 libraries[htmlpurifier][download][type] = "get"
-libraries[htmlpurifier][download][url] = "http://htmlpurifier.org/releases/htmlpurifier-4.5.0.tar.gz"
+libraries[htmlpurifier][download][url] = "http://htmlpurifier.org/releases/htmlpurifier-4.6.0.tar.gz"
 libraries[htmlpurifier][directory_name] = "htmlpurifier"
 libraries[htmlpurifier][type] = "library"
+
+libraries[html5shiv][download][type] = "get"
+libraries[html5shiv][download][url] = "https://github.com/aFarkas/html5shiv/zipball/master"
+libraries[html5shiv][directory_name] = "html5shiv"
+libraries[html5shiv][type] = "library"
 
